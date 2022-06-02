@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vikash8991
 - 👀 I’m interested in software devlopment field
 - 🌱 I’m btech cs last year student 
-- 💞️ I’m looking for fresher job
+- 💞️ I have 6 mont experience in java and manual
 - 📫 vksrajput1998@gmail.com
 
 <!---
