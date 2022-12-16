@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vikash8991
+- 👋 Hi, I’m Vikash Kumar
 - 👀 I’m interested in software devlopment field
 - 🌱 I’m btech cs last year student 
 - 💞️ I have 6 mont experience in java and manual
